@@ -1,16 +1,12 @@
-# vagrant-mysql
-Vagrant file that exposes mysql on remote hosts (Centos7)
+# Descrição: vagrant usando mysql
+Vagrant file that enable and expose an mysql on virtual machine via remote hosts with (Centos7)
 
-# Setup
+# Configuração: First steps before continue (pre-reqs)
 
-First of all you need two tools to run this project:
+Download and Install - Vagrant (https://www.vagrantup.com/downloads.html)
+Download and Install - VirtualBox (https://www.virtualbox.org/wiki/Downloads)
 
-- [Vagrant](https://www.vagrantup.com/downloads.html)
-- [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+# Executando: Via Terminal, PowerShell ou CMD
 
-If you're using Windows, we recommend you to download [Git bash](https://git-scm.com/downloads) and execute all commands under this shell.
-
-# Usage
-
-- Clone this repository
-- Run `vagrant up`
+- Baixar este repositório
+- Executar o comando "vagrant up"
